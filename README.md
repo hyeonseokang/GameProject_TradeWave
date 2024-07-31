@@ -1,1 +1,1 @@
-# UnityGameProject_TradeWave
+# Cocos2d-X GmaeProejct TradeWave
